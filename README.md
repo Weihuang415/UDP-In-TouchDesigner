@@ -7,3 +7,7 @@ and these
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
  
+Remember to type in these
+#define WIFI_SSID "YOUR_SSID_HERE"
+#define WIFI_PASS "YOUR_WIFIPASSWORD_HERE"
+and unique port number
