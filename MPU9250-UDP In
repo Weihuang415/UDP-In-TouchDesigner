@@ -14,8 +14,8 @@ double x;
 double y;
 double z;
 
-#define WIFI_SSID "Weihuang"
-#define WIFI_PASS "weihun415"
+#define WIFI_SSID "YOUR_SSID_HERE"
+#define WIFI_PASS "YOUR_WIFIPASSWORD_HERE"
 
 const char ip[]="172.20.10.8"; // IP address of computer on network running TouchDesigner
 #define UDP_PORT 4210 // pick a port, any port.. make sure it's not already being used by something else.
